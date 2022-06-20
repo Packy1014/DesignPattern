@@ -2,7 +2,7 @@ package com.packy.designpattern.state;
 
 public class PlayingState extends State {
 
-    PlayingState(Player player) {
+    public PlayingState(Player player) {
         super(player);
     }
 
