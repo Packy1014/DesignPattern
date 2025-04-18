@@ -1,6 +1,6 @@
 package com.packy.designpattern.builder;
 
-public class Client {
+public class Demo {
     public static void main(String[] args) {
         Director director = new Director();
         CarBuilder builder = new CarBuilder();

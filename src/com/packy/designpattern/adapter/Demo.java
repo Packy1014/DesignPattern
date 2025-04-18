@@ -1,6 +1,6 @@
 package com.packy.designpattern.adapter;
 
-public class Client {
+public class Demo {
     public static void main(String[] args) {
         // Round fits round, no surprise.
         RoundHole hole = new RoundHole(5);

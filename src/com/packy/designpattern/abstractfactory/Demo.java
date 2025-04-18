@@ -1,6 +1,6 @@
 package com.packy.designpattern.abstractfactory;
 
-public class Client {
+public class Demo {
     public static void main(String[] args) {
         GUIFactory guiFactory;
         String osName = System.getProperty("os.name").toLowerCase();

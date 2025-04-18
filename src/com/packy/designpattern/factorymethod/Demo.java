@@ -1,6 +1,6 @@
 package com.packy.designpattern.factorymethod;
 
-public class Client {
+public class Demo {
     private static Dialog dialog;
 
     static void configure() {

@@ -1,6 +1,6 @@
 package com.packy.designpattern.bridge;
 
-public class Client {
+public class Demo {
     public static void testDevice(Device device) {
         System.out.println("Tests with basic remote.");
         BasicRemote basicRemote = new BasicRemote(device);

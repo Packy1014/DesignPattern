@@ -1,6 +1,6 @@
 package com.packy.designpattern.singleton;
 
-public class Client {
+public class Demo {
     static class ThreadFoo implements Runnable {
         @Override
         public void run() {

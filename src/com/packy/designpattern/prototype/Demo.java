@@ -3,7 +3,7 @@ package com.packy.designpattern.prototype;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Client {
+public class Demo {
     private static void cloneAndCompare(List<Shape> shapes, List<Shape> shapesCopy) {
         for (Shape shape : shapes) {
             shapesCopy.add(shape.clone());
